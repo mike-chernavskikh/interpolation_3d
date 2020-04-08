@@ -1,0 +1,17 @@
+To compile run:
+
+qmake -project "QT += opengl"
+
+qmake
+
+make
+
+*********************************
+
+Ctrl + P/M - change number of points
+
++- ZOOM
+
+CTRL + F1/F2/F3 - change mode, F2 - 1st method, F3 - 2nd method
+
+Up/Right/Left/Down - rotate camera
