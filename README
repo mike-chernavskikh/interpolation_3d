@@ -1,3 +1,5 @@
+# Number method, realizing interpolation function: R^2 -> R
+
 To compile run:
 
 qmake -project "QT += opengl"
